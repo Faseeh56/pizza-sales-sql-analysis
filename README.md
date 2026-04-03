@@ -104,17 +104,17 @@ This project demonstrates the use of:
 
 ## 📁 Repository Structure
 
-pizza-sales-sql-analysis/
-│
-├── dataset/
-│   ├── orders.csv
-│   ├── order_details.csv
-│   ├── pizzas.csv
-│   └── pizza_types.csv
-│
-├── sql_queries.sql
-├── project_presentation.pdf
-└── README.md
+pizza-sales-sql-analysis/  
+│  
+├── dataset/  
+│   ├── orders.csv  
+│   ├── order_details.csv  
+│   ├── pizzas.csv  
+│   └── pizza_types.csv  
+│  
+├── sql_queries.sql  
+├── project_presentation.pdf  
+└── README.md  
 
 ---
 
